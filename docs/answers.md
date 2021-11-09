@@ -1,8 +1,3 @@
-layout: page
-title: "Answers"
-permalink: /assignments/Answers/
-
-
 ## Exercise 1
 
 ### Italics and bold
